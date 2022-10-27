@@ -1,0 +1,58 @@
+.carousel-slide{
+        background-color: black;
+        position: relative;
+}
+.carousel-slide img{
+    display: block;
+    opacity: 0.6;
+    width: 100%;
+}
+.title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-120%,150%);
+    padding: 0%;
+    margin: 0%;
+    font-size: 100px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.nav-flex-column{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(230%,80%);
+    padding: 0%;
+    margin: 0%;
+    font-size: 30px;
+    font-weight:lighter;
+    color: #ffffff;
+}
+/* .about p{
+    text-align: center;
+    font-size: 30px;
+    transform: translate(0%,80%);
+    font-family: monospace;
+    color: darkgray;
+}
+.tomato img{
+    width: 700px;
+    transform: translate(0%,10%);
+}
+.green{
+    position: relative;
+}
+.green img{
+    width: 700px;
+    position: absolute;
+    right: 0;
+} */
+.menu p{
+    text-align: center;
+    font-size: 30px;
+    transform: translate(0%,80%);
+    font-family: monospace;
+    color: darkgray;
+    margin-bottom: 10%;
+}
